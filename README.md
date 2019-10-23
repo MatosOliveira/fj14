@@ -1,2 +1,2 @@
 # fj14
-Projetos referente a Estrutura de Dados
+Projetos de estudo referente a Estrutura de Dados
